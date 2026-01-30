@@ -49,10 +49,10 @@ Dashboard Highlights:
 - Revenue & sales by category
 - Revenue & sales by age group
 - Interactive filters:
--     Gender
--     Subscription status
--     Category
--     Shipping type
+      - Gender
+      - Subscription status
+      - Category
+      - Shipping type
 
   <img width="1197" height="792" alt="image" src="https://github.com/user-attachments/assets/23f09e76-23bf-4da8-86a6-5c17b865abe0" />
 
