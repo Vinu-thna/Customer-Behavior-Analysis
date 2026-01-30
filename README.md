@@ -56,3 +56,19 @@ Dashboard Highlights:
 
   <img width="1197" height="792" alt="image" src="https://github.com/user-attachments/assets/23f09e76-23bf-4da8-86a6-5c17b865abe0" />
 
+
+# Key Insights
+- Clothing generates the highest revenue and sales volume
+- Non-subscribers form the majority of customers, indicating subscription growth potential
+- Young adults contribute the highest revenue among age groups
+- Express shipping users tend to have higher average purchase amounts
+- Loyal customers dominate the customer base, showing strong retention
+
+
+# Business Recommendations
+- Promote exclusive benefits to increase subscriptions
+- Introduce loyalty programs to convert repeat buyers into long-term customers
+- Optimize discount strategies to protect margins
+- Highlight top-rated and best-selling products in campaigns
+- Focus marketing efforts on high-revenue age groups and express shipping users
+
